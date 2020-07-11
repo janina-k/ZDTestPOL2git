@@ -1,2 +1,13 @@
 this is my new file
 
+
+made changes
+
+public class MadeChanges {
+
+	public void SimpleMethod() {
+		print "asd"
+
+}
+
+}
